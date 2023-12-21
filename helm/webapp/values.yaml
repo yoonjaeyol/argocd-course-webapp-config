@@ -8,7 +8,7 @@ image:
   repository: firewood2002/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 7ef5a1ca3047393e5b28542d87d74ac422a2fd70
+  tag: 8c7e8bd8bf91982630de545d6b5acc03f7672c40
 
 imagePullSecrets: []
 nameOverride: ""
